@@ -2,7 +2,7 @@
 
 :computer: **ingeniero automatizacion**
 
-### Vias de contacto
+### Contact
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/marlonchca3/marlonchca3)
 
 
