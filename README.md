@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-:computer: **ingeniero automatizacion**
+:computer: **automation engineer**
 🕴️ **trader**
 
 ### Contact
