@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 :computer: **automation engineer**
-🕴️ **trader**
+🕴️ **trader** 💸☺️
+
 
 ### Contact
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/marlonchca3/marlonchca3)
