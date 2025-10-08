@@ -9,9 +9,9 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/marlonchca3/marlonchca3)
 
 ### :zap: Recent Activity
-<!--RECENT_ACTIVITY:start-->
+<!--START_SECTION:activity-->
 
-<!--RECENT_ACTIVITY:last_update-->
+<!--END_SECTION:activity-->
 
 
 
