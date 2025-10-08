@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, Iam Marlon Chuquino 👋
 
 :computer: **automation engineer**
 🕴️ **trader** 💸☺️
